@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://a.wht.one/"/>
-  <updated>2020-04-10T11:11:54.358Z</updated>
+  <updated>2020-04-10T11:17:28.834Z</updated>
   <id>https://a.wht.one/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://a.wht.one/4a3d/"/>
     <id>https://a.wht.one/4a3d/</id>
     <published>2020-04-10T11:03:10.000Z</published>
-    <updated>2020-04-10T11:11:54.358Z</updated>
+    <updated>2020-04-10T11:17:28.834Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.loli.net/2020/04/10/rAV6uoxd9emKwfy.jpg" alt="16.jpg"></p><h2 id="作品介绍"><a href="#作品介绍" class="headerlink" title="作品介绍"></a>作品介绍</h2><ul><li><strong>名称：</strong>The Great Clown Series</li><li><strong>时间：</strong>1975-1982</li><li><strong>材质：</strong>Print</li><li><strong>尺寸：</strong>138 x 107 cm</li><li><strong>艺术家：</strong>Krishna Reddy</li><li><strong>图片来源：</strong>Google Arts &amp; Culture</li><li><strong>图片大小 &amp; 分辨率：</strong>49.1MB（8727×11787）</li></ul><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><ul><li><a href="https://www.dropbox.com/s/zcddsbeh1or3t1q/The%20Great%20Clown%20Series%20-%20%E5%85%8B%E9%87%8C%E5%B8%8C%E7%B4%8D%C2%B7%E9%9B%B7%E8%BF%AA1975-1982.jpg?dl=0" target="_blank" rel="noopener">Dropbox</a></li></ul>]]></content>
     
@@ -37,6 +37,8 @@
     
     
     
+      <category term="Krishna Reddy" scheme="https://a.wht.one/tags/Krishna-Reddy/"/>
+    
   </entry>
   
   <entry>
@@ -44,7 +46,7 @@
     <link href="https://a.wht.one/d4f9/"/>
     <id>https://a.wht.one/d4f9/</id>
     <published>2020-04-10T11:01:29.000Z</published>
-    <updated>2020-04-10T11:11:48.222Z</updated>
+    <updated>2020-04-10T11:17:38.521Z</updated>
     
     <content type="html"><![CDATA[<p><img src="https://i.loli.net/2020/04/10/6KPk8SZRQCFoLhM.jpg" alt="15.jpg"></p><h2 id="作品介绍"><a href="#作品介绍" class="headerlink" title="作品介绍"></a>作品介绍</h2><ul><li><strong>名称：</strong>Iced</li><li><strong>时间：</strong>2006</li><li><strong>材质：</strong>Oil on canvas</li><li><strong>尺寸：</strong>110 x 115.5 cm</li><li><strong>艺术家：</strong>Derek O’Connor</li><li><strong>图片来源：</strong>Google Arts &amp; Culture</li><li><strong>图片大小 &amp; 分辨率：</strong>42.4MB（10981×10504）</li></ul><h2 id="下载链接"><a href="#下载链接" class="headerlink" title="下载链接"></a>下载链接</h2><ul><li><a href="https://www.dropbox.com/s/amufa22ts29ljzx/Iced%20-%20Derek%20O%27Connor%202006.jpg?dl=0" target="_blank" rel="noopener">Dropbox</a></li></ul>]]></content>
     
@@ -59,6 +61,8 @@
     </summary>
     
     
+    
+      <category term="Derek O&#39;Connor" scheme="https://a.wht.one/tags/Derek-O-Connor/"/>
     
   </entry>
   
