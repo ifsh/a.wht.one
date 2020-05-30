@@ -1341,8 +1341,8 @@ h6 {
 .site-footer {
 	position: relative;
 
-	padding-top: 15px;
-	padding-bottom: 15px;
+	padding-top: 20px;
+	padding-bottom: 20px;
 
 	color: var(--white-normal);
 	background: #000000;
